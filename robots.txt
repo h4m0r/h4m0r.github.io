@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://h4m0r.github.io/sitemap.xml
