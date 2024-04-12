@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>h4m0r&#39;s Blog</title>
-    <link>https://h4m0r.github.io/</link>
+    <link>https://blog.hamor.top/</link>
     <description>Recent content on h4m0r&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 10 Apr 2024 17:57:52 +0800</lastBuildDate><atom:link href="https://h4m0r.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Apr 2024 17:57:52 +0800</lastBuildDate><atom:link href="https://blog.hamor.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://h4m0r.github.io/posts/blog/blog/</link>
+      <link>https://blog.hamor.top/posts/blog/blog/</link>
       <pubDate>Wed, 10 Apr 2024 17:57:52 +0800</pubDate>
       
-      <guid>https://h4m0r.github.io/posts/blog/blog/</guid>
+      <guid>https://blog.hamor.top/posts/blog/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>https://h4m0r.github.io/posts/life/life/</link>
+      <link>https://blog.hamor.top/posts/life/life/</link>
       <pubDate>Wed, 10 Apr 2024 17:57:52 +0800</pubDate>
       
-      <guid>https://h4m0r.github.io/posts/life/life/</guid>
+      <guid>https://blog.hamor.top/posts/life/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Read</title>
-      <link>https://h4m0r.github.io/posts/read/read/</link>
+      <link>https://blog.hamor.top/posts/read/read/</link>
       <pubDate>Wed, 10 Apr 2024 17:57:52 +0800</pubDate>
       
-      <guid>https://h4m0r.github.io/posts/read/read/</guid>
+      <guid>https://blog.hamor.top/posts/read/read/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redis scan命令学习</title>
-      <link>https://h4m0r.github.io/posts/tech/tech1/</link>
+      <link>https://blog.hamor.top/posts/tech/tech1/</link>
       <pubDate>Wed, 10 Apr 2024 17:57:52 +0800</pubDate>
       
-      <guid>https://h4m0r.github.io/posts/tech/tech1/</guid>
+      <guid>https://blog.hamor.top/posts/tech/tech1/</guid>
       <description>scan命令详解</description>
     </item>
     
     <item>
       <title>🤝友链</title>
-      <link>https://h4m0r.github.io/links/</link>
+      <link>https://blog.hamor.top/links/</link>
       <pubDate>Wed, 10 Apr 2024 17:57:52 +0800</pubDate>
       
-      <guid>https://h4m0r.github.io/links/</guid>
+      <guid>https://blog.hamor.top/links/</guid>
       <description>Sulv&amp;#39;s Blog 一个记录技术、阅读、生活的博客 👉友链格式 名称： h4mor&amp;rsquo;s Blog 网址： https://www.h4m0r.cn 图标： https://www.h4m0r.cn/img/Q.gif 描述： 一个记录技术、阅读、生活的博客</description>
     </item>
     
     <item>
       <title>🙋🏻‍♂️关于</title>
-      <link>https://h4m0r.github.io/about/</link>
+      <link>https://blog.hamor.top/about/</link>
       <pubDate>Wed, 10 Apr 2024 17:57:28 +0800</pubDate>
       
-      <guid>https://h4m0r.github.io/about/</guid>
+      <guid>https://blog.hamor.top/about/</guid>
       <description>关于我 英文名: H4m0r 职业: xxx 运动: 跑步、乒乓球、篮球</description>
     </item>
     
