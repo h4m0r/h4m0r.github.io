@@ -6,14 +6,14 @@
     <description>Recent content in 🧱 建站 on h4m0r&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 10 Apr 2024 17:57:52 +0800</lastBuildDate><atom:link href="https://blog.hamor.top/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Apr 2024 16:12:48 +0800</lastBuildDate><atom:link href="https://blog.hamor.top/posts/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>https://blog.hamor.top/posts/blog/blog/</link>
-      <pubDate>Wed, 10 Apr 2024 17:57:52 +0800</pubDate>
+      <title>Mac下使用hugo和GithubPages搭建个人博客</title>
+      <link>https://blog.hamor.top/posts/blog/mac%E4%B8%8B%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithubpages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Fri, 12 Apr 2024 16:12:48 +0800</pubDate>
       
-      <guid>https://blog.hamor.top/posts/blog/blog/</guid>
-      <description></description>
+      <guid>https://blog.hamor.top/posts/blog/mac%E4%B8%8B%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithubpages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>序章 一直想用博客的形式记录自己的生活、工作、学习的点滴，从2018年开始用Hexo+NEXT写博客上传到GitHub，后来又断断续续的写了一段时间就荒废了。从今年4月开始看着朋友的博客写的有声有色，除了想用博客来记录之外，觉得自己还是需要将所学的东西沉淀下来，有一个回顾的平台，希</description>
     </item>
     
   </channel>
