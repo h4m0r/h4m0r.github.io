@@ -8,10 +8,10 @@
     <loc>https://blog.hamor.top/</loc>
     <lastmod>2024-04-12T16:12:48+08:00</lastmod>
   </url><url>
-    <loc>https://blog.hamor.top/posts/blog/mac%E4%B8%8B%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithubpages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://blog.hamor.top/tags/hugo/</loc>
     <lastmod>2024-04-12T16:12:48+08:00</lastmod>
   </url><url>
-    <loc>https://blog.hamor.top/tags/read/</loc>
+    <loc>https://blog.hamor.top/posts/blog/mac%E4%B8%8B%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithubpages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2024-04-12T16:12:48+08:00</lastmod>
   </url><url>
     <loc>https://blog.hamor.top/tags/</loc>
@@ -20,22 +20,13 @@
     <loc>https://blog.hamor.top/posts/blog/</loc>
     <lastmod>2024-04-12T16:12:48+08:00</lastmod>
   </url><url>
+    <loc>https://blog.hamor.top/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2024-04-12T16:12:48+08:00</lastmod>
+  </url><url>
     <loc>https://blog.hamor.top/posts/tech/</loc>
     <lastmod>2024-04-10T17:57:52+08:00</lastmod>
   </url><url>
-    <loc>https://blog.hamor.top/posts/read/</loc>
-    <lastmod>2024-04-10T17:57:52+08:00</lastmod>
-  </url><url>
     <loc>https://blog.hamor.top/categories/</loc>
-    <lastmod>2024-04-10T17:57:52+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.hamor.top/tags/life/</loc>
-    <lastmod>2024-04-10T17:57:52+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.hamor.top/posts/life/life/</loc>
-    <lastmod>2024-04-10T17:57:52+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.hamor.top/posts/read/read/</loc>
     <lastmod>2024-04-10T17:57:52+08:00</lastmod>
   </url><url>
     <loc>https://blog.hamor.top/tags/redis/</loc>
@@ -50,9 +41,6 @@
     <loc>https://blog.hamor.top/tags/tech/</loc>
     <lastmod>2024-04-10T17:57:52+08:00</lastmod>
   </url><url>
-    <loc>https://blog.hamor.top/posts/life/</loc>
-    <lastmod>2024-04-10T17:57:52+08:00</lastmod>
-  </url><url>
     <loc>https://blog.hamor.top/links/</loc>
     <lastmod>2024-04-10T17:57:52+08:00</lastmod>
   </url><url>
@@ -61,8 +49,12 @@
   </url><url>
     <loc>https://blog.hamor.top/archives/</loc>
   </url><url>
+    <loc>https://blog.hamor.top/posts/read/</loc>
+  </url><url>
     <loc>https://blog.hamor.top/search/</loc>
   </url><url>
     <loc>https://blog.hamor.top/series/</loc>
+  </url><url>
+    <loc>https://blog.hamor.top/posts/life/</loc>
   </url>
 </urlset>
