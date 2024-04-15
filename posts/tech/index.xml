@@ -5,16 +5,6 @@
     <link>https://blog.hamor.top/posts/tech/</link>
     <description>Recent content in 👨🏻‍💻 技术 on h4m0r&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Wed, 10 Apr 2024 17:57:52 +0800</lastBuildDate><atom:link href="https://blog.hamor.top/posts/tech/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Redis scan命令学习</title>
-      <link>https://blog.hamor.top/posts/tech/tech1/</link>
-      <pubDate>Wed, 10 Apr 2024 17:57:52 +0800</pubDate>
-      
-      <guid>https://blog.hamor.top/posts/tech/tech1/</guid>
-      <description>scan命令详解</description>
-    </item>
-    
+    <language>zh</language><atom:link href="https://blog.hamor.top/posts/tech/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

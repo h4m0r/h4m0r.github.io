@@ -25,23 +25,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Redis</title>
-      <link>https://blog.hamor.top/tags/redis/</link>
-      <pubDate>Wed, 10 Apr 2024 17:57:52 +0800</pubDate>
-      
-      <guid>https://blog.hamor.top/tags/redis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://blog.hamor.top/tags/tech/</link>
-      <pubDate>Wed, 10 Apr 2024 17:57:52 +0800</pubDate>
-      
-      <guid>https://blog.hamor.top/tags/tech/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
