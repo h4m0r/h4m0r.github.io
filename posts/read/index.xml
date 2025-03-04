@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>阅读 on h4m0r&#39;s Blog</title>
+    <link>https://h4m0r.github.io/posts/read/</link>
+    <description>Recent content in 阅读 on h4m0r&#39;s Blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 02 Mar 2025 20:14:37 +0800</lastBuildDate>
+    <atom:link href="https://h4m0r.github.io/posts/read/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>威联通NAS Docker部署CodiMD及环境变量修改解决方案</title>
+      <link>https://h4m0r.github.io/posts/read/%E5%A8%81%E8%81%94%E9%80%9Anas-docker%E9%83%A8%E7%BD%B2codimd%E5%8F%8A%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E4%BF%AE%E6%94%B9%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
+      <pubDate>Sun, 02 Mar 2025 20:14:37 +0800</pubDate>
+      <guid>https://h4m0r.github.io/posts/read/%E5%A8%81%E8%81%94%E9%80%9Anas-docker%E9%83%A8%E7%BD%B2codimd%E5%8F%8A%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E4%BF%AE%E6%94%B9%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid>
+      <description>威联通NAS Docker部署CodiMD及环境变量修改解决方案</description>
+    </item>
+  </channel>
+</rss>
