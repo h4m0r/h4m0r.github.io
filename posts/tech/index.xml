@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>技术 on h4m0r&#39;s Blog</title>
-    <link>https://h4m0r.github.io/posts/tech/</link>
+    <link>https://hamor.top/posts/tech/</link>
     <description>Recent content in 技术 on h4m0r&#39;s Blog</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
     <lastBuildDate>Wed, 09 Oct 2024 09:25:07 +0800</lastBuildDate>
-    <atom:link href="https://h4m0r.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hamor.top/posts/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>安全内网渗透技术基础</title>
-      <link>https://h4m0r.github.io/posts/tech/%E5%AE%89%E5%85%A8%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/</link>
+      <link>https://hamor.top/posts/tech/%E5%AE%89%E5%85%A8%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/</link>
       <pubDate>Sat, 05 Oct 2024 09:25:07 +0800</pubDate>
-      <guid>https://h4m0r.github.io/posts/tech/%E5%AE%89%E5%85%A8%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/</guid>
+      <guid>https://hamor.top/posts/tech/%E5%AE%89%E5%85%A8%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/</guid>
       <description>网络安全内网渗透技术基础</description>
     </item>
   </channel>
