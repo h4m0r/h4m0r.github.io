@@ -6,16 +6,7 @@
     <description>Recent content in 修炼 on h4m0r&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 09 Mar 2025 10:34:41 +0800</lastBuildDate><atom:link href="https://hamor.top/posts/read/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Macmac主机无法SSH连接本地虚拟机解决方案</title>
-      <link>https://hamor.top/posts/read/mac%E4%B8%BB%E6%9C%BA%E6%97%A0%E6%B3%95ssh%E8%BF%9E%E6%8E%A5%E6%9C%AC%E5%9C%B0%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
-      <pubDate>Sun, 09 Mar 2025 10:34:41 +0800</pubDate>
-      
-      <guid>https://hamor.top/posts/read/mac%E4%B8%BB%E6%9C%BA%E6%97%A0%E6%B3%95ssh%E8%BF%9E%E6%8E%A5%E6%9C%AC%E5%9C%B0%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid>
-      <description>mac主机无法SSH连接本地虚拟机解决方案</description>
-    </item>
-    
+    <lastBuildDate>Sun, 02 Mar 2025 20:14:37 +0800</lastBuildDate><atom:link href="https://hamor.top/posts/read/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>威联通NAS Docker部署CodiMD及环境变量修改解决方案</title>
       <link>https://hamor.top/posts/read/%E5%A8%81%E8%81%94%E9%80%9Anas-docker%E9%83%A8%E7%BD%B2codimd%E5%8F%8A%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E4%BF%AE%E6%94%B9%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
@@ -23,6 +14,15 @@
       
       <guid>https://hamor.top/posts/read/%E5%A8%81%E8%81%94%E9%80%9Anas-docker%E9%83%A8%E7%BD%B2codimd%E5%8F%8A%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E4%BF%AE%E6%94%B9%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid>
       <description>威联通NAS Docker部署CodiMD及环境变量修改解决方案</description>
+    </item>
+    
+    <item>
+      <title>Mac主机无法SSH连接本地虚拟机解决方案</title>
+      <link>https://hamor.top/posts/read/mac%E4%B8%BB%E6%9C%BA%E6%97%A0%E6%B3%95ssh%E8%BF%9E%E6%8E%A5%E6%9C%AC%E5%9C%B0%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
+      <pubDate>Thu, 09 Jan 2025 10:34:41 +0800</pubDate>
+      
+      <guid>https://hamor.top/posts/read/mac%E4%B8%BB%E6%9C%BA%E6%97%A0%E6%B3%95ssh%E8%BF%9E%E6%8E%A5%E6%9C%AC%E5%9C%B0%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid>
+      <description>mac主机无法SSH连接本地虚拟机解决方案</description>
     </item>
     
   </channel>
