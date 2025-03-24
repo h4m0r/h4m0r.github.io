@@ -6,7 +6,16 @@
     <description>Recent content on h4m0r&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 09 Mar 2025 14:43:56 +0800</lastBuildDate><atom:link href="https://hamor.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Mar 2025 14:43:56 +0800</lastBuildDate><atom:link href="https://hamor.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac M芯片Pwn环境部署</title>
+      <link>https://hamor.top/posts/tech/mac-m%E8%8A%AF%E7%89%87pwn%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Mon, 24 Mar 2025 14:43:56 +0800</pubDate>
+      
+      <guid>https://hamor.top/posts/tech/mac-m%E8%8A%AF%E7%89%87pwn%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</guid>
+      <description>Mac M芯片Pwn环境部署</description>
+    </item>
+    
     <item>
       <title>威联通NAS Docker部署CodiMD及环境变量修改解决方案</title>
       <link>https://hamor.top/posts/read/%E5%A8%81%E8%81%94%E9%80%9Anas-docker%E9%83%A8%E7%BD%B2codimd%E5%8F%8A%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E4%BF%AE%E6%94%B9%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
